@@ -1,0 +1,9 @@
+{
+  "video": "hotr\\inputs\\gaze_test_1.mp4",
+  "checkpoint": "hotr\\checkpoints\\hico_ft_q16.pth",
+  "device": "cpu",
+  "fps": 30.0,
+  "total_frames": 1423,
+  "stride": 1,
+  "score_thresh": 0.2
+}
